@@ -19,7 +19,7 @@ My name is **Cvetan Tomovski** I was born on January 30, 1995 in *Skokie, Illino
 
 *Food Above*:
 
-Homemade Bread, Braided spiced bread, Braised cabbage stuffed with ground lamb and rice (Bottom Dish), Polenta with feta cheese, Cold zucchini and eggplant salad, Roasted red peppers with garlic, oil, vinegar, Baked pinto beans with pork belly (Center Dish)
+Homemade Bread, Braided spiced bread, Braised cabbage stuffed with ground lamb and rice (*Bottom Dish*), Polenta with feta cheese, Cold zucchini and eggplant salad, Roasted red peppers with garlic, oil, vinegar, Baked pinto beans with pork belly (*Center Dish*)
 
 ### Hobbies
 Some of my hobbies include:
