@@ -2,7 +2,7 @@
 
 ### About Me
 
-My name is **Cvetan Tomovski** I was born on January 30, 1995 in *Skokie, Illinois*. Both my parents are of Macedonian decent. My father grew up in the city of Skopje, while my mother grew up in the lake side town of Ohrid. Every other summer my family and I visit extendend family and eat traditional delicacies that my parents once ate when they were children. 
+My name is **Cvetan Tomovski** I was born on January 30, 1995 in *Skokie, Illinois*. Both my parents are of Macedonian decent. My father grew up in the city of Skopje, while my mother grew up in the lake side town of Ohrid. Every other summer my family and I visit extended family and eat traditional delicacies that my parents once ate when they were children. 
 
 
 ### North Macedonia 
