@@ -2,8 +2,8 @@
 
 ### About Me
 
-My name is **Cvetan Tomovski** I was born on January 30, 1995 in *Skokie, Illinois*. Both my parents are of Macedonian decent. My father grew up in the city of Skopje, while my mother grew up in the lake side town of Ohrid. Every other summer my family and I visit extendend family 
-My favorite youtuber is [Pecos Hank](https://www.youtube.com/channel/UCAQpSHsgUcNt6uCOjpgD8kw)
+My name is **Cvetan Tomovski** I was born on January 30, 1995 in *Skokie, Illinois*. Both my parents are of Macedonian decent. My father grew up in the city of Skopje, while my mother grew up in the lake side town of Ohrid. Every other summer my family and I visit extendend family and eat traditional delicacies that my parents once ate when they were children. 
+
 
 ### North Macedonia 
 <img src = "https://geology.com/world/macedonia-map.gif" height="400" width="600"> 
@@ -14,6 +14,12 @@ My favorite youtuber is [Pecos Hank](https://www.youtube.com/channel/UCAQpSHsgUc
 ### Lake Ohrid
 <img src = "https://cdn2.wanderlust.co.uk/media/3836/articles-short-break-in-lake-ohrid-macedonia.jpg?anchor=center&mode=crop&width=1200&height=0&rnd=131480780050000000" height="500" width="900"> 
 
+### Traditional Balkan Meal
+<img src = "https://c2.staticflickr.com/6/5260/5389461483_ed04506ed4_z.jpg" height="500" width="900">
+
+*Food Above*:
+
+Homemade Bread, Braided spiced bread, Braised cabbage stuffed with ground lamb and rice (Bottom Dish), Polenta with feta cheese, Cold zucchini and eggplant salad, Roasted red peppers with garlic, oil, vinegar, Baked pinto beans with pork belly (Center Dish)
 
 ### Hobbies
 Some of my hobbies include:
@@ -21,6 +27,9 @@ Some of my hobbies include:
 - Ice Hockey
 - Hiking
 - Geocaching
+
+### What Media Do I Watch
+My favorite youtuber is [Johnny Harris](https://www.youtube.com/user/johnnymangosteen). Johnny is an independent journalist that dives deep into why countries borders are shaped the way that they are. He explores how geographical features and human influence, shape our borders. 
 
 
 ### Places I Want to Visit 
