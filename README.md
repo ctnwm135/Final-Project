@@ -45,7 +45,7 @@ Countries/Regions:
 ### My First Code
 `
 for x in range(1,101):
-  if(x%3 == 0 and x%5 ==0):
+  if(x%3 == 0 and x%5 ==0)
     x = "fizzbuzz"
   if(x%3 ==0):
     x = "fizz"
@@ -53,3 +53,6 @@ for x in range(1,101):
     x = "buzz"
   print(x)
 `
+
+
+
