@@ -2,7 +2,7 @@
 
 ### About Me
 
-My name is **Cvetan Tomovski** I was born on January 30, 1995 in Skokie, Illinois. I graduated from *Dallastown Area Highschool* in Pennsylvania.
+My name is **Cvetan Tomovski** I was born on January 30, 1995 in *Skokie, Illinois*. Both my parents are of Macedonian decent. My father grew up in the city of Skopje, while my mother grew up in the lake side town of Ohrid. Every other summer my family and I visit extendend family 
 My favorite youtuber is [Pecos Hank](https://www.youtube.com/channel/UCAQpSHsgUcNt6uCOjpgD8kw)
 
 ### North Macedonia 
@@ -10,9 +10,6 @@ My favorite youtuber is [Pecos Hank](https://www.youtube.com/channel/UCAQpSHsgUc
 
 ### Skopje 
 <img src = "https://www.eu-startups.com/wp-content/uploads/2020/04/Skopje-city-image.jpg" height="500" width="900"> 
-
-### Pelister National Park
-<img src = "https://visitmacedonia.eu/wp-content/uploads/2019/11/pelister-pelisterski-oci.jpg" height="500" width="900"> 
 
 ### Lake Ohrid
 <img src = "https://cdn2.wanderlust.co.uk/media/3836/articles-short-break-in-lake-ohrid-macedonia.jpg?anchor=center&mode=crop&width=1200&height=0&rnd=131480780050000000" height="500" width="900"> 
