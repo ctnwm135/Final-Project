@@ -5,15 +5,25 @@
 My name is **Cvetan Tomovski** I was born on January 30, 1995 in Skokie, Illinois. I graduated from *Dallastown Area Highschool* in Pennsylvania.
 My favorite youtuber is [Pecos Hank](https://www.youtube.com/channel/UCAQpSHsgUcNt6uCOjpgD8kw)
 
-### Astronomy
-<img src = "http://i.huffpost.com/gen/911775/images/o-HUBBLE-SPACE-TELESCOPE-PHOTOS-facebook.jpg" height="200" width="200"> ![Galaxy](https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/04/telescope-1024x576.jpg)
+### North Macedonia 
+<img src = "https://geology.com/world/macedonia-map.gif" height="400" width="600"> 
+
+### Skopje 
+<img src = "https://www.eu-startups.com/wp-content/uploads/2020/04/Skopje-city-image.jpg" height="500" width="900"> 
+
+### Pelister National Park
+<img src = "https://visitmacedonia.eu/wp-content/uploads/2019/11/pelister-pelisterski-oci.jpg" height="500" width="900"> 
+
+### Lake Ohrid
+<img src = "https://cdn2.wanderlust.co.uk/media/3836/articles-short-break-in-lake-ohrid-macedonia.jpg?anchor=center&mode=crop&width=1200&height=0&rnd=131480780050000000" height="500" width="900"> 
+
 
 ### Hobbies
 Some of my hobbies include:
-* Downhill Mountain Biking
-* Ice Hockey
-* Hiking
-* Geocaching
+- Downhill Mountain Biking
+- Ice Hockey
+- Hiking
+- Geocaching
 
 
 ### Places I Want to Visit 
